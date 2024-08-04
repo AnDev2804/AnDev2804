@@ -2,12 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently in my third year of the National Informatics Training Program at the "Universidad Nacional Experimental del Transporte" (National Experimental University of Transportation). My goal is to continue studying to obtain the degree of Engineer.\
-💡 &nbsp;I enjoy learning new technologies and experimenting with them.\
-🌱 &nbsp;My goal is to learn more about Artificial Intelligence, make more complex Android apps and keep developing my knowledge in web development.\
-✍️ &nbsp;In my free time I love to create music, I'm a drummer but I perform well with other instruments such as singing, guitar, bass, keyboard and music production software.\
-💬 &nbsp;Feel free to contact me through my email or instagram, I don't bite hahaha.\
-✉️ &nbsp;You can shoot me an email at mendozaluisandre030@gmail.com! I'll try to respond as soon as I can.\
+🎓 &nbsp;I'm currently in my third year of the National Informatics Training Program at the "Universidad Nacional Experimental del Transporte" (National Experimental University of Transportation). My goal is to continue studying to obtain the degree of Engineer.
+💡 &nbsp;I enjoy learning new technologies and experimenting with them.
+🌱 &nbsp;My goal is to learn more about Artificial Intelligence, make more complex Android apps and keep developing my knowledge in web development.
+✍️ &nbsp;In my free time I love to create music, I'm a drummer but I perform well with other instruments such as singing, guitar, bass, keyboard and music production software.
+💬 &nbsp;Feel free to contact me through my email or instagram, I don't bite hahaha.
+✉️ &nbsp;You can shoot me an email at mendozaluisandre030@gmail.com! I'll try to respond as soon as I can.
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlxOXRwZ2tubWp4cHBmNXY5c241bHJoN21sbHVueDY3MTdmYmVybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"/>
 
